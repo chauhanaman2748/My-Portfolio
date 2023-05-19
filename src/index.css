@@ -13,10 +13,12 @@ body{
 
 h1,
 h4,
+h3,
 p,
 a {
   color: #fff;
   text-decoration: none;
+  padding-bottom: 30px;
 }
 
 ul{
@@ -35,6 +37,12 @@ ul{
 }
 
 .btn-light {
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  border: 1px solid #fff;
+  font-weight: 600;
+  cursor: pointer;
   background: transparent;
   color: #fff;
 }
