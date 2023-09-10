@@ -27,8 +27,9 @@ const AboutContent = () => {
                     </div>
                     <div className="about_">
                     <h3>Experience</h3>
-                        <li>Software Development Intern, National Mission for Clean Ganga, Delhi, India</li>
-                        <li>Information Technology Intern, Radnik Exports, Noida, India</li>
+                        <li><i>Software Developer Student, </i><b>Blackberry</b>, Mississauga, Canada</li>
+                        <li><i>Software Development Intern</i>, <b>National Mission for Clean Ganga</b>, Delhi, India</li>
+                        <li><i>Information Technology Intern</i>, <b>Radnik Exports</b>, Noida, India</li>
                     </div>
                 </div>
             </div>
